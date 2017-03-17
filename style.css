@@ -52,10 +52,10 @@ h1 {
   SunSans-Regular, sans-serif }
 
 ul.navbar li {
-  background: #CCCC99;
+  background: #808080;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-left: 1em solid #999900 }
+  border-left: 1em solid #404040 }
 ul.navbar a {
   text-decoration: none }
 a:link {
@@ -87,7 +87,7 @@ div.figure p {
   text-indent: 0;
 }
 
-B { color: green;
+B { color: grey;
     font-weight: bold  }
 
 
