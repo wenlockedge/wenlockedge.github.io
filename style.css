@@ -2,7 +2,7 @@ body {
   padding-left: 11em;
   font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif 
-  color: black;
+  color: red;
   background-color: #FFFFFF;
   background-image: url(rug_background_1200.jpg); 
   background-repeat: no-repeat;
@@ -20,7 +20,7 @@ ul.navbar {
 
 h1.header {
   padding: 0;
-  font-size: 72pt;
+  font-size: 48pt;
   color: #AAAAAA;
   text-align: center;  
   font-family: Helvetica, Geneva, Arial,
