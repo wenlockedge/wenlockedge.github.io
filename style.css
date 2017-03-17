@@ -89,5 +89,8 @@ div.figure p {
 
 B { color: blue;
     font-weight: bold  }
-
+p {
+    font-family: Helvetica, Geneva, Arial,
+  SunSans-Regular, sans-serif;
+}
 
