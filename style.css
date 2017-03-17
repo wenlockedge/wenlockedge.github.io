@@ -21,7 +21,7 @@ ul.navbar {
 h1.header {
   padding: 0;
   font-size: 72pt;
-  color: #AA0000;
+  color: #AAAAAA;
   text-align: center;  
   font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif }
@@ -29,7 +29,7 @@ h1.header {
 h2.header {
   padding: 0;
   font-size: 24pt;
-  color: #AA0000;
+  color: #AAAAAA;
   text-align: center;  
   font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif }
@@ -38,7 +38,7 @@ div.copyright{
   padding-left: 11em;
   font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif;
-  color: #AA0000;
+  color: #AAAAAA;
   font-size: 12pt;
   position: absolute; bottom: 0;
   text-align: center;  
