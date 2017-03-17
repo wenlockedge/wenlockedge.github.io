@@ -2,7 +2,7 @@ body {
   padding-left: 11em;
   font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif; 
-  color: red;
+  color: black;
   background-color: #FFFFFF;
   background-image: url(rug_background_1200.jpg); 
   background-repeat: no-repeat;
@@ -90,6 +90,7 @@ div.figure p {
 B { color: blue;
     font-weight: bold  }
 p {
+    font-size: 14pt; 
     font-family: Helvetica, Geneva, Arial,
   SunSans-Regular, sans-serif;
 }
